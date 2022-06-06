@@ -25,6 +25,7 @@ if (isset($_POST['update'])) {
   header('Location: index.php');
 }
 ?>
+
 <?php include('includes/header.php'); ?>
 <div class="container p-4">
   <div class="row">
