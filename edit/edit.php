@@ -24,8 +24,8 @@ if (isset($_POST['update'])) {
   $_SESSION['message_type'] = 'warning';
   header('Location: index.php');
 }
-
 ?>
+
 <?php include('includes/header.php'); ?>
 <div class="container p-4">
   <div class="row">
