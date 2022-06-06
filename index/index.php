@@ -29,6 +29,7 @@
         </form>
       </div>
     </div>
+    
     <div class="col-md-8">
       <table class="table table-bordered">
         <thead>
@@ -60,6 +61,7 @@
             </td>
           </tr>
           <?php } ?>
+          
         </tbody>
       </table>
     </div>
